@@ -1,4 +1,4 @@
-##Problemàtiques habituals
+## Problemàtiques habituals
 
 **Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:**
 
