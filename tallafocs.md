@@ -1,6 +1,6 @@
 #     Tallafocs
 
-++Tallafocs ++
+++Tallafocs++
 
 
 Què es un sistema tallafocs? Quina és la seva finalitat?
